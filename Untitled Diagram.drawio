@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T05:25:58.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.1.5" etag="2DGqT9_W-6fTpVatbOvm" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T05:35:30.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="aOfspC88sSq11O0ycOpM" version="22.1.5" type="github">
   <diagram name="Page-1" id="5EyHI82ux-X1Fnsuormb">
-    <mxGraphModel>
+    <mxGraphModel dx="983" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kqMLvW4fEz_p5QoRH0F6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqMLvW4fEz_p5QoRH0F6-1" target="kqMLvW4fEz_p5QoRH0F6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqMLvW4fEz_p5QoRH0F6-1" value="Yönetim Kurulu Başkanı" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqMLvW4fEz_p5QoRH0F6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kqMLvW4fEz_p5QoRH0F6-2" target="kqMLvW4fEz_p5QoRH0F6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqMLvW4fEz_p5QoRH0F6-2" value="Yönetim Kurulu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqMLvW4fEz_p5QoRH0F6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kqMLvW4fEz_p5QoRH0F6-3" target="kqMLvW4fEz_p5QoRH0F6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqMLvW4fEz_p5QoRH0F6-3" value="Disiplin Kurulu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqMLvW4fEz_p5QoRH0F6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kqMLvW4fEz_p5QoRH0F6-4" target="kqMLvW4fEz_p5QoRH0F6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqMLvW4fEz_p5QoRH0F6-4" value="Yönetim Kurulu Asistanı" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqMLvW4fEz_p5QoRH0F6-5" value="Genel Müdür" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
