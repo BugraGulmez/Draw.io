@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T18:18:53.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="IzsLtfhkX09H75OHar2k" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T21:11:04.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="X9HZ91l0WDE7yBuHOMNW" version="22.1.18" type="github" pages="2">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
-    <mxGraphModel dx="2048" dy="1039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,12 +53,12 @@
             <mxPoint x="480" y="456" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mTHOk1BernN7sZ2neYyc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E2WN5ak8Cf_rjjWAEGz9-13">
+        <mxCell id="mTHOk1BernN7sZ2neYyc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E2WN5ak8Cf_rjjWAEGz9-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="938.7674418604652" y="527" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mTHOk1BernN7sZ2neYyc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="E2WN5ak8Cf_rjjWAEGz9-13" target="E2WN5ak8Cf_rjjWAEGz9-54">
+        <mxCell id="mTHOk1BernN7sZ2neYyc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" parent="1" source="E2WN5ak8Cf_rjjWAEGz9-13" target="E2WN5ak8Cf_rjjWAEGz9-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E2WN5ak8Cf_rjjWAEGz9-13" value="Mikroişlemci&lt;br&gt;(Ardunio Nano)" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
@@ -132,14 +132,148 @@
         <mxCell id="E2WN5ak8Cf_rjjWAEGz9-124" value="Ananlog olarak 100 kere olarak örnekleme alma ve ortalamasını yazdırma" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;labelBackgroundColor=none;align=center;verticalAlign=middle;rounded=1;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="820" y="378" width="240" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mTHOk1BernN7sZ2neYyc-2" value="Ananlog olarak 100 kere olarak örnekleme alma ve ortalamasını yazdırma" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;labelBackgroundColor=none;align=center;verticalAlign=middle;rounded=1;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="mTHOk1BernN7sZ2neYyc-2" value="Ananlog olarak 100 kere olarak örnekleme alma ve ortalamasını yazdırma" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;labelBackgroundColor=none;align=center;verticalAlign=middle;rounded=1;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="485" y="378" width="240" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mTHOk1BernN7sZ2neYyc-5" value="Ölçülen veriler önce SD kart devresine sonra kullanıcı arayzlerine yazdırılır" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;labelBackgroundColor=none;align=center;verticalAlign=middle;rounded=1;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="mTHOk1BernN7sZ2neYyc-5" value="Ölçülen veriler önce SD kart devresine sonra kullanıcı arayzlerine yazdırılır" style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;labelBackgroundColor=none;align=center;verticalAlign=middle;rounded=1;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="533" y="496" width="240" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="mTHOk1BernN7sZ2neYyc-6" value="Ölcülen değer üzerinden yapılan karşılaştırmalar ve SoC değerinin hesabı yapılır ve bunlar bir değişken olarak kaydedilir." style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;labelBackgroundColor=none;align=center;verticalAlign=middle;rounded=1;fontColor=#FEFAE0;" vertex="1" parent="1">
+        <mxCell id="mTHOk1BernN7sZ2neYyc-6" value="Ölcülen değer üzerinden yapılan karşılaştırmalar ve SoC değerinin hesabı yapılır ve bunlar bir değişken olarak kaydedilir." style="text;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;labelBackgroundColor=none;align=center;verticalAlign=middle;rounded=1;fontColor=#FEFAE0;" parent="1" vertex="1">
           <mxGeometry x="847" y="416" width="240" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jS_w6_mh5bCWDTmtUfou" name="Page-2">
+    <mxGraphModel dx="1358" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-2" target="ZHT-fiRbkquQxCSZRVh8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-2" value=" Başlangıç ayarlarını yap pinleri, cihazları ve kütüphaneleri başlat" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-3" target="ZHT-fiRbkquQxCSZRVh8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-3" value="OLED ekranı başlat ve ilk bilgileri göster" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-4" target="ZHT-fiRbkquQxCSZRVh8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-4" target="ZHT-fiRbkquQxCSZRVh8-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-4" value="Düğme basılı değil mi kontrol et basılı değilse belirli bir süre sonra OLED ekranı uyku moduna geçir" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-6" value="Gerilim bölücü üzerinden voltaj ölç " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-7" target="ZHT-fiRbkquQxCSZRVh8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-7" value="DS18B20 sensöründen&amp;nbsp; sıcaklık Ölç   " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-8" value="ACS712 sensöründen akım ölç  " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="960" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-10" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-9" target="j0v3E6LCTyV4tpa0sWxP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-9" value=" SD kart durumunu kontrol et  " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="720" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-19" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-10" target="j0v3E6LCTyV4tpa0sWxP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-10" value=" Verileri OLED ekranında göster " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-11" target="ZHT-fiRbkquQxCSZRVh8-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-11" target="ZHT-fiRbkquQxCSZRVh8-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-11" value="Moda bağlı olarak röleyi tetikle  " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-12" target="j0v3E6LCTyV4tpa0sWxP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-12" value="Verileri SD karta yaz             " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-20" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-13" target="j0v3E6LCTyV4tpa0sWxP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-13" value=" Seri monitöre verileri gönder   " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZHT-fiRbkquQxCSZRVh8-14" value=" Bluetooth bağlantısı durumunu kontrol et  " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="880" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-4" target="ZHT-fiRbkquQxCSZRVh8-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j0v3E6LCTyV4tpa0sWxP-9" target="ZHT-fiRbkquQxCSZRVh8-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-15" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="j0v3E6LCTyV4tpa0sWxP-9" target="ZHT-fiRbkquQxCSZRVh8-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-9" value="SD kart, bluetooth bağlantısı hakkında durum bildirisi ver" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;" edge="1" parent="1" source="j0v3E6LCTyV4tpa0sWxP-9" target="ZHT-fiRbkquQxCSZRVh8-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j0v3E6LCTyV4tpa0sWxP-17" target="ZHT-fiRbkquQxCSZRVh8-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="1200" />
+              <mxPoint x="1120" y="420" />
+              <mxPoint x="860" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0v3E6LCTyV4tpa0sWxP-17" value="Döngüye geri dön ölçüm alıp, veri yazdırmaya devam et" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
