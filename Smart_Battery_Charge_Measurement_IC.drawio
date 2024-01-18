@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T21:35:27.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Z_Q4UdIWHqqmmgVNX9Na" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-18T06:07:15.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="VTXbvvPPMZRa6er1NnmS" version="22.1.18" type="github" pages="3">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
-    <mxGraphModel dx="1426" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,82 +145,82 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jS_w6_mh5bCWDTmtUfou" name="Page-2">
-    <mxGraphModel dx="1678" dy="996" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="1367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yZFexxeSMaX7Nvz6s_aD-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;strokeColor=#FFFFFF;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-2" target="ZHT-fiRbkquQxCSZRVh8-3">
+        <mxCell id="yZFexxeSMaX7Nvz6s_aD-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="ZHT-fiRbkquQxCSZRVh8-2" target="ZHT-fiRbkquQxCSZRVh8-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZHT-fiRbkquQxCSZRVh8-2" value=" Başlangıç ayarlarını yap pinleri, cihazları ve kütüphaneleri başlat" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="680" y="200" width="360" height="80" as="geometry" />
+          <mxGeometry x="871" y="190" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yZFexxeSMaX7Nvz6s_aD-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;strokeColor=#FFFFFF;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-3" target="yZFexxeSMaX7Nvz6s_aD-4">
+        <mxCell id="yZFexxeSMaX7Nvz6s_aD-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="ZHT-fiRbkquQxCSZRVh8-3" target="yZFexxeSMaX7Nvz6s_aD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZHT-fiRbkquQxCSZRVh8-3" value="OLED ekranı başlat ve ilk bilgileri göster" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="760" y="320" width="200" height="80" as="geometry" />
+          <mxGeometry x="951" y="310" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZHT-fiRbkquQxCSZRVh8-6" value="Gerilim bölücü üzerinden voltaj ölç " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="585" y="560" width="160" height="80" as="geometry" />
+          <mxGeometry x="776" y="546" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="ZHT-fiRbkquQxCSZRVh8-7" target="ZHT-fiRbkquQxCSZRVh8-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZHT-fiRbkquQxCSZRVh8-7" value="DS18B20 sensöründen&amp;nbsp; sıcaklık ölç   " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="780" y="560" width="160" height="80" as="geometry" />
+          <mxGeometry x="971" y="546" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZHT-fiRbkquQxCSZRVh8-8" value="ACS712 sensöründen akım ölç  " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="975" y="560" width="160" height="80" as="geometry" />
+          <mxGeometry x="1166" y="546" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-10" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;startSize=8;endSize=8;elbow=vertical;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="ZHT-fiRbkquQxCSZRVh8-9" target="j0v3E6LCTyV4tpa0sWxP-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZHT-fiRbkquQxCSZRVh8-9" value=" SD kart durumunu kontrol et  " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="640" y="760" width="200" height="80" as="geometry" />
+          <mxGeometry x="831" y="746" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-19" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;elbow=vertical;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="ZHT-fiRbkquQxCSZRVh8-10" target="j0v3E6LCTyV4tpa0sWxP-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZHT-fiRbkquQxCSZRVh8-10" value=" Verileri OLED ekranında göster " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="580" y="1000" width="160" height="80" as="geometry" />
+          <mxGeometry x="771" y="986" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;elbow=vertical;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="ZHT-fiRbkquQxCSZRVh8-11" target="ZHT-fiRbkquQxCSZRVh8-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="820" y="720" />
+              <mxPoint x="1011" y="706" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;elbow=vertical;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="ZHT-fiRbkquQxCSZRVh8-11" target="ZHT-fiRbkquQxCSZRVh8-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="940" y="720" />
+              <mxPoint x="1131" y="706" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZHT-fiRbkquQxCSZRVh8-11" value="Moda bağlı olarak röleyi tetikle  " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="680" y="680" width="360" height="40" as="geometry" />
+          <mxGeometry x="871" y="666" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="ZHT-fiRbkquQxCSZRVh8-12" target="j0v3E6LCTyV4tpa0sWxP-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZHT-fiRbkquQxCSZRVh8-12" value="Verileri SD karta yaz             " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="780" y="1000" width="160" height="80" as="geometry" />
+          <mxGeometry x="971" y="986" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-20" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;elbow=vertical;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="ZHT-fiRbkquQxCSZRVh8-13" target="j0v3E6LCTyV4tpa0sWxP-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZHT-fiRbkquQxCSZRVh8-13" value=" Seri monitöre verileri gönder   " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1000" width="160" height="80" as="geometry" />
+          <mxGeometry x="1171" y="986" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;startSize=8;endSize=8;elbow=vertical;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="ZHT-fiRbkquQxCSZRVh8-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860" y="880" as="targetPoint" />
+            <mxPoint x="1051" y="866" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZHT-fiRbkquQxCSZRVh8-14" value=" Bluetooth bağlantısı durumunu kontrol et  " style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="880" y="760" width="210" height="80" as="geometry" />
+          <mxGeometry x="1071" y="746" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="j0v3E6LCTyV4tpa0sWxP-9" target="ZHT-fiRbkquQxCSZRVh8-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -228,37 +228,130 @@
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-15" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;elbow=vertical;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="j0v3E6LCTyV4tpa0sWxP-9" target="ZHT-fiRbkquQxCSZRVh8-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="940" y="920" />
+              <mxPoint x="1131" y="906" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-9" value="SD kart, bluetooth bağlantısı hakkında durum bildirisi ver" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="680" y="880" width="360" height="80" as="geometry" />
+          <mxGeometry x="871" y="866" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=22;startSize=8;endSize=8;elbow=vertical;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="j0v3E6LCTyV4tpa0sWxP-9" target="ZHT-fiRbkquQxCSZRVh8-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="780" y="920" />
+              <mxPoint x="971" y="906" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="j0v3E6LCTyV4tpa0sWxP-17" value="Döngüye geri dön ölçüm alıp, veri yazdırmaya devam et" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="650" y="1120" width="420" height="80" as="geometry" />
+          <mxGeometry x="841" y="1106" width="420" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yZFexxeSMaX7Nvz6s_aD-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;strokeColor=#FFFFFF;" edge="1" parent="1" source="ZHT-fiRbkquQxCSZRVh8-2" target="ZHT-fiRbkquQxCSZRVh8-2">
+        <mxCell id="yZFexxeSMaX7Nvz6s_aD-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;strokeColor=#FFFFFF;" parent="1" source="ZHT-fiRbkquQxCSZRVh8-2" target="ZHT-fiRbkquQxCSZRVh8-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yZFexxeSMaX7Nvz6s_aD-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;elbow=vertical;fontFamily=Times New Roman;strokeColor=#FFFFFF;" edge="1" parent="1" source="yZFexxeSMaX7Nvz6s_aD-4" target="ZHT-fiRbkquQxCSZRVh8-6">
+        <mxCell id="ItCk0VheNFwIK_0ZoeTq-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#FFFFFF;" edge="1" parent="1" source="yZFexxeSMaX7Nvz6s_aD-4" target="ZHT-fiRbkquQxCSZRVh8-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050.9999999999995" y="407.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItCk0VheNFwIK_0ZoeTq-11" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;strokeColor=#FFFFFF;" edge="1" parent="1" source="yZFexxeSMaX7Nvz6s_aD-4" target="ZHT-fiRbkquQxCSZRVh8-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yZFexxeSMaX7Nvz6s_aD-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;fontFamily=Times New Roman;strokeColor=#FFFFFF;" edge="1" parent="1" source="yZFexxeSMaX7Nvz6s_aD-4" target="ZHT-fiRbkquQxCSZRVh8-7">
+        <mxCell id="yZFexxeSMaX7Nvz6s_aD-4" value="Düğme basılı değil mi kontrol et basılı değilse belirli bir süre sonra OLED ekranı uyku moduna geçir" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="791" y="413" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ItCk0VheNFwIK_0ZoeTq-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="703" y="592" as="sourcePoint" />
+            <mxPoint x="753" y="542" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItCk0VheNFwIK_0ZoeTq-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;strokeColor=#FFFFFF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j0v3E6LCTyV4tpa0sWxP-17" target="yZFexxeSMaX7Nvz6s_aD-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="569" as="sourcePoint" />
+            <mxPoint x="971" y="447.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="686" y="549" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ItCk0VheNFwIK_0ZoeTq-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;elbow=vertical;strokeColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yZFexxeSMaX7Nvz6s_aD-4" target="ZHT-fiRbkquQxCSZRVh8-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050.9999999999995" y="487.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="aoKc9A-pTvCPusFpaecu">
+    <mxGraphModel dx="983" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="MB-lbPW1hrkOePoblKgB-0" />
+        <mxCell id="MB-lbPW1hrkOePoblKgB-1" parent="MB-lbPW1hrkOePoblKgB-0" />
+        <mxCell id="368Pp9d79RKLIdvi4CF7-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#FFFFFF;" edge="1" parent="MB-lbPW1hrkOePoblKgB-1" source="MB-lbPW1hrkOePoblKgB-20" target="368Pp9d79RKLIdvi4CF7-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yZFexxeSMaX7Nvz6s_aD-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;startSize=8;endSize=8;elbow=vertical;fontFamily=Times New Roman;strokeColor=#FFFFFF;" edge="1" parent="1" source="yZFexxeSMaX7Nvz6s_aD-4" target="ZHT-fiRbkquQxCSZRVh8-8">
+        <mxCell id="MB-lbPW1hrkOePoblKgB-20" value="Bluetooth Modülünü İlk Ayarlama" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="MB-lbPW1hrkOePoblKgB-1">
+          <mxGeometry x="360" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#FFFFFF;" edge="1" parent="MB-lbPW1hrkOePoblKgB-1" source="368Pp9d79RKLIdvi4CF7-0" target="368Pp9d79RKLIdvi4CF7-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yZFexxeSMaX7Nvz6s_aD-4" value="Düğme basılı değil mi kontrol et basılı değilse belirli bir süre sonra OLED ekranı uyku moduna geçir" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#FFFFFF;fontColor=#ffffff;fontSize=22;fontFamily=Times New Roman;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="440" width="520" height="80" as="geometry" />
+        <mxCell id="368Pp9d79RKLIdvi4CF7-0" value="Bluetooth Bağlantıları Tarama" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="MB-lbPW1hrkOePoblKgB-1">
+          <mxGeometry x="520" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#FFFFFF;" edge="1" parent="MB-lbPW1hrkOePoblKgB-1" source="368Pp9d79RKLIdvi4CF7-1" target="368Pp9d79RKLIdvi4CF7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-1" value="Cihaz Seçimi ve Eşleştirme" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="MB-lbPW1hrkOePoblKgB-1">
+          <mxGeometry x="680" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#FFFFFF;" edge="1" parent="MB-lbPW1hrkOePoblKgB-1" source="368Pp9d79RKLIdvi4CF7-2" target="368Pp9d79RKLIdvi4CF7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-2" value="Bluetooth Bağlantısını Kurma" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="MB-lbPW1hrkOePoblKgB-1">
+          <mxGeometry x="840" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="MB-lbPW1hrkOePoblKgB-1" source="368Pp9d79RKLIdvi4CF7-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="839.7586206896551" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#FFFFFF;" edge="1" parent="MB-lbPW1hrkOePoblKgB-1" source="368Pp9d79RKLIdvi4CF7-3" target="368Pp9d79RKLIdvi4CF7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-3" value="Veri Gönderme İçin Komut Girişi" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="MB-lbPW1hrkOePoblKgB-1">
+          <mxGeometry x="840" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#FFFFFF;" edge="1" parent="MB-lbPW1hrkOePoblKgB-1" source="368Pp9d79RKLIdvi4CF7-4" target="368Pp9d79RKLIdvi4CF7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-4" value="Veri Paketleme ve Gönderme" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="MB-lbPW1hrkOePoblKgB-1">
+          <mxGeometry x="680" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#FFFFFF;" edge="1" parent="MB-lbPW1hrkOePoblKgB-1" source="368Pp9d79RKLIdvi4CF7-5" target="368Pp9d79RKLIdvi4CF7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-5" value="Arduino tarafında Bluetooth Alımı" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="MB-lbPW1hrkOePoblKgB-1">
+          <mxGeometry x="520" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-7" value="Arduino tarafından Yanıt Gönderme" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="MB-lbPW1hrkOePoblKgB-1">
+          <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-8" value="Gelen Veriyi Gösterme" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="MB-lbPW1hrkOePoblKgB-1">
+          <mxGeometry x="680" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#FFFFFF;" edge="1" parent="MB-lbPW1hrkOePoblKgB-1" source="368Pp9d79RKLIdvi4CF7-9" target="368Pp9d79RKLIdvi4CF7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-9" value="Bağlantı Kontrolleri" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="MB-lbPW1hrkOePoblKgB-1">
+          <mxGeometry x="520" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="368Pp9d79RKLIdvi4CF7-18" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#FFFFFF;elbow=vertical;" edge="1" parent="MB-lbPW1hrkOePoblKgB-1" source="368Pp9d79RKLIdvi4CF7-7" target="368Pp9d79RKLIdvi4CF7-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
