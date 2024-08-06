@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1149" dy="529" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="start" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Screen Mechanism" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="3" value="HMI Mechanism" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="130" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Screen Adjustment" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="4" value="HMI Adjustment" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="370" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Camera Detection" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
@@ -23,16 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="13" value="Profile Registration" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="250" width="159" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="16" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;entryX=0.095;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4" target="13" edge="1">
-          <mxGeometry width="100" height="100" as="geometry">
-            <mxPoint y="100" as="sourcePoint" />
-            <mxPoint x="695" y="170" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="530" y="350" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="975" y="136" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-55" value="Detachable and reattach able HMI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="190" width="200" height="80" as="geometry" />
@@ -46,32 +37,52 @@
             <mxPoint x="319.83" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GH0UqKwVndS1nuWGwgYn-59" value="Adjust screen position using image processing and touch feedback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GH0UqKwVndS1nuWGwgYn-59" value="Adjust HMI position using image processing and touch feedback" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="440" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-60" value="Face recognition to save driver-specific HMI position profile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="310" width="190" height="80" as="geometry" />
+          <mxGeometry x="1055" y="196" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-61" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="330" as="sourcePoint" />
-            <mxPoint x="680" y="370" as="targetPoint" />
+            <mxPoint x="1045" y="216" as="sourcePoint" />
+            <mxPoint x="1045" y="256" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-62" value="Face Recognition" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="370" width="159" height="80" as="geometry" />
+          <mxGeometry x="965" y="256" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-65" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="679.36" y="450" as="sourcePoint" />
-            <mxPoint x="679.36" y="490" as="targetPoint" />
+            <mxPoint x="1044.3600000000001" y="336" as="sourcePoint" />
+            <mxPoint x="1044.3600000000001" y="376" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-66" value="Adjusts the HMI position when the driver enters the vehicle." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="430" width="190" height="80" as="geometry" />
+          <mxGeometry x="1055" y="316" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-72" value="End" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="619.5" y="490" width="120" height="30" as="geometry" />
+          <mxGeometry x="984.5" y="376" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0UqKwVndS1nuWGwgYn-73" value="Verify Status: OK or Not OK" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="113" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0UqKwVndS1nuWGwgYn-90" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.905;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GH0UqKwVndS1nuWGwgYn-83" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="592" y="228.94444444444446" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="591" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GH0UqKwVndS1nuWGwgYn-83" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="572" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GH0UqKwVndS1nuWGwgYn-85" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.905;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="GH0UqKwVndS1nuWGwgYn-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="325" as="sourcePoint" />
+            <mxPoint x="734" y="275" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
