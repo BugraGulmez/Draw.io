@@ -64,9 +64,6 @@
         <mxCell id="GH0UqKwVndS1nuWGwgYn-72" value="End" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="984.5" y="376" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GH0UqKwVndS1nuWGwgYn-73" value="Verify Status: OK or Not OK" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="754" y="113" width="120" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-90" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.905;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GH0UqKwVndS1nuWGwgYn-83" target="3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="592" y="228.94444444444446" as="targetPoint" />
@@ -76,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-83" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="536.5" y="240.5" width="80" height="99" as="geometry" />
+          <mxGeometry x="530.75" y="234.75" width="80" height="110.5" as="geometry" />
         </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-85" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.905;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="GH0UqKwVndS1nuWGwgYn-83">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -84,8 +81,8 @@
             <mxPoint x="734" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GH0UqKwVndS1nuWGwgYn-91" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Verify Status: OK or Not OK&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="531" y="270" width="91" height="36" as="geometry" />
+        <mxCell id="GH0UqKwVndS1nuWGwgYn-91" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Verify Status OK or Not OK&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="518" y="272" width="91" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
