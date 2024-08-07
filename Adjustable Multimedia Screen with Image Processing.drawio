@@ -69,11 +69,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V7kLFCqWELgKjrHRU5BF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V7kLFCqWELgKjrHRU5BF-14" target="V7kLFCqWELgKjrHRU5BF-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="488" />
+              <mxPoint x="120" y="556" />
+              <mxPoint x="284" y="556" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="V7kLFCqWELgKjrHRU5BF-11" value="Yes, start profile registration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V7kLFCqWELgKjrHRU5BF-10" vertex="1" connectable="0">
-          <mxGeometry x="0.5" relative="1" as="geometry">
-            <mxPoint x="15" y="-6" as="offset" />
+        <mxCell id="wCUt-F2pWQlmVXEw_7FA-4" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;Yes, start profile registration&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="V7kLFCqWELgKjrHRU5BF-10">
+          <mxGeometry x="0.2566" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V7kLFCqWELgKjrHRU5BF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="V7kLFCqWELgKjrHRU5BF-14" target="V7kLFCqWELgKjrHRU5BF-26" edge="1">
