@@ -331,7 +331,7 @@
           <mxGeometry x="-190" y="585" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-16" value="Set the saved HMI profile" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="445" y="830" width="120" height="120" as="geometry" />
+          <mxGeometry x="370" y="830" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.019;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-14" target="5oaNM4iD8BGQ1A2ODZAz-16">
           <mxGeometry relative="1" as="geometry" />
