@@ -33,7 +33,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yf9y3WExU8TTPDN5yny1" name="User Profile Registration-02">
-    <mxGraphModel dx="581" dy="251" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="337" dy="146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
       <root>
         <object label="" id="0">
           <mxCell />
@@ -45,16 +45,16 @@
         <mxCell id="-Zb1ceNgBcfjziFciSwE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="-Zb1ceNgBcfjziFciSwE-2" target="-Zb1ceNgBcfjziFciSwE-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Zb1ceNgBcfjziFciSwE-11" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#9AC7BF;fontFamily=Helvetica;fontSize=11;fillColor=none;gradientColor=none;" parent="-Zb1ceNgBcfjziFciSwE-8" vertex="1" connectable="0">
-          <mxGeometry x="-0.0002" relative="1" as="geometry">
+        <mxCell id="iz0GkSlxr1LuDPelp5Y5-7" value="&lt;span style=&quot;color: rgb(154, 199, 191);&quot;&gt;No&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#EEEEEE;labelBackgroundColor=none;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="-Zb1ceNgBcfjziFciSwE-8">
+          <mxGeometry x="0.4984" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Zb1ceNgBcfjziFciSwE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="-Zb1ceNgBcfjziFciSwE-2" target="-Zb1ceNgBcfjziFciSwE-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Zb1ceNgBcfjziFciSwE-10" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#9AC7BF;fontFamily=Helvetica;fontSize=11;fillColor=none;gradientColor=none;" parent="-Zb1ceNgBcfjziFciSwE-9" vertex="1" connectable="0">
-          <mxGeometry x="-0.0118" y="-1" relative="1" as="geometry">
+        <mxCell id="iz0GkSlxr1LuDPelp5Y5-8" value="&lt;span style=&quot;color: rgb(154, 199, 191);&quot;&gt;Yes&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#EEEEEE;labelBackgroundColor=none;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="-Zb1ceNgBcfjziFciSwE-9">
+          <mxGeometry x="0.4859" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
