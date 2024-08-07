@@ -1,15 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6" pages="5">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Components">
-    <mxGraphModel dx="679" dy="365" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="1">
+    <mxGraphModel dx="1542" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GH0UqKwVndS1nuWGwgYn-60" value="Face recognition to save driver-specific HMI position profile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#EEEEEE;" parent="1" vertex="1">
-          <mxGeometry x="1044.5" y="190" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="GH0UqKwVndS1nuWGwgYn-66" value="Adjusts the HMI position when the driver enters the vehicle." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#EEEEEE;" parent="1" vertex="1">
-          <mxGeometry x="1044.5" y="310" width="190" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="LjCVkWjDybm0BiPAX4Dq-13" value="Infotainment System" style="swimlane;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;rounded=1;swimlaneHead=1;absoluteArcSize=0;connectable=1;allowArrows=1;pointerEvents=1;expand=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;direction=east;overflow=visible;" parent="1" vertex="1">
           <mxGeometry x="40" y="30" width="200" height="260" as="geometry">
             <mxRectangle x="40" y="30" width="150" height="30" as="alternateBounds" />
