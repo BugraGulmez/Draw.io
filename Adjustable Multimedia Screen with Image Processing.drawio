@@ -1,35 +1,46 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Bileşenler">
-    <mxGraphModel dx="2862" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="992" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4" value="HMI Adjustment" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="20.5" y="180" width="159" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="13" value="Profile Registration" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry y="280" width="159" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-60" value="Face recognition to save driver-specific HMI position profile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1044.5" y="190" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-62" value="Face Recognition" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="240" y="192" width="159" height="80" as="geometry" />
+          <mxGeometry x="520" y="190" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GH0UqKwVndS1nuWGwgYn-66" value="Adjusts the HMI position when the driver enters the vehicle." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1044.5" y="310" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6SlXk2SQCQ-J-JeLysUc-13" value="Infotainment System" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="60" width="100" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="6SlXk2SQCQ-J-JeLysUc-14" value="Camera" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="100" height="100" as="geometry" />
+          <mxGeometry x="579" y="60" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zg9c_q_MXQkPVtyrekOQ-14" value="Driver Gesture Recognition" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="210.5" y="300" width="159" height="80" as="geometry" />
+          <mxGeometry x="490" y="288" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nQOe-XkYxirQbwvYSPR1-13" value="Touch Screen&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="374" width="159" height="80" as="geometry" />
+        <mxCell id="LjCVkWjDybm0BiPAX4Dq-13" value="Infotainment System" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="200" height="260" as="geometry">
+            <mxRectangle x="450" y="192" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LjCVkWjDybm0BiPAX4Dq-19" value="Touch Screen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LjCVkWjDybm0BiPAX4Dq-13">
+          <mxGeometry x="40" y="178" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LjCVkWjDybm0BiPAX4Dq-17" value="Profile Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LjCVkWjDybm0BiPAX4Dq-13">
+          <mxGeometry x="40" y="108" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LjCVkWjDybm0BiPAX4Dq-15" value="HMI Adjustment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LjCVkWjDybm0BiPAX4Dq-13">
+          <mxGeometry x="40" y="38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LjCVkWjDybm0BiPAX4Dq-20" value="Camera" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LjCVkWjDybm0BiPAX4Dq-21" value="Face Recognition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LjCVkWjDybm0BiPAX4Dq-20">
+          <mxGeometry x="40" y="38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LjCVkWjDybm0BiPAX4Dq-22" value="Driver Gesture Recognition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LjCVkWjDybm0BiPAX4Dq-20">
+          <mxGeometry x="40" y="108" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
