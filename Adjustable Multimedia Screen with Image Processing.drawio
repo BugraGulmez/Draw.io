@@ -64,28 +64,18 @@
         <mxCell id="-Zb1ceNgBcfjziFciSwE-6" value="Give a warning to the driver to create a user profile on the HMI" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
           <mxGeometry x="250" y="327" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="Hln606C9xFhL2zD2UT4x-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFFFF;" edge="1" parent="1" source="-Zb1ceNgBcfjziFciSwE-7" target="5oaNM4iD8BGQ1A2ODZAz-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-Zb1ceNgBcfjziFciSwE-7" value="Set the saved HMI profile" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
           <mxGeometry x="645" y="327" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-6" target="5oaNM4iD8BGQ1A2ODZAz-7" edge="1">
+        <mxCell id="Hln606C9xFhL2zD2UT4x-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFFFF;" edge="1" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-6" target="5oaNM4iD8BGQ1A2ODZAz-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iz0GkSlxr1LuDPelp5Y5-2" value="&lt;span style=&quot;color: rgb(154, 199, 191);&quot;&gt;Yes, start profile registration&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=#EEEEEE;labelBackgroundColor=none;fillColor=none;gradientColor=none;" parent="5oaNM4iD8BGQ1A2ODZAz-10" vertex="1" connectable="0">
-          <mxGeometry x="0.2396" relative="1" as="geometry">
+        <mxCell id="Hln606C9xFhL2zD2UT4x-13" value="Yes, start profile registration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="Hln606C9xFhL2zD2UT4x-12">
+          <mxGeometry x="0.2455" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;startFill=1;" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-6" target="5oaNM4iD8BGQ1A2ODZAz-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="705" y="622" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="621" y="532" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-34" value="No, user wants to use&amp;nbsp;&lt;div&gt;without&amp;nbsp;the registration&lt;/div&gt;" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=0;imageAspect=1;fillColor=none;gradientColor=none;textShadow=0;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#9AC7BF;labelBackgroundColor=none;" parent="5oaNM4iD8BGQ1A2ODZAz-11" vertex="1" connectable="0">
-          <mxGeometry x="0.0169" relative="1" as="geometry">
-            <mxPoint x="-6" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-6" value="Does the user want to create a profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
@@ -93,9 +83,6 @@
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-7" value="Confirmation movement request application" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
           <mxGeometry x="250" y="622" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="-Zb1ceNgBcfjziFciSwE-6" target="5oaNM4iD8BGQ1A2ODZAz-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-14" target="5oaNM4iD8BGQ1A2ODZAz-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,13 +118,26 @@
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-28" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
           <mxGeometry x="655" y="482" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-16" target="5oaNM4iD8BGQ1A2ODZAz-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="-Zb1ceNgBcfjziFciSwE-7" target="5oaNM4iD8BGQ1A2ODZAz-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Hln606C9xFhL2zD2UT4x-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFFFF;" edge="1" parent="1" source="-Zb1ceNgBcfjziFciSwE-1" target="-Zb1ceNgBcfjziFciSwE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hln606C9xFhL2zD2UT4x-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFFFF;" edge="1" parent="1" source="-Zb1ceNgBcfjziFciSwE-6" target="5oaNM4iD8BGQ1A2ODZAz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hln606C9xFhL2zD2UT4x-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFFFF;" edge="1" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-6" target="5oaNM4iD8BGQ1A2ODZAz-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hln606C9xFhL2zD2UT4x-8" value="&lt;div&gt;No, user wants to use&amp;nbsp;&lt;/div&gt;&lt;div&gt;without the registration&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=default;fontColor=default;" vertex="1" connectable="0" parent="Hln606C9xFhL2zD2UT4x-7">
+          <mxGeometry x="-0.0037" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hln606C9xFhL2zD2UT4x-9" value="&lt;div&gt;No, user wants to use&amp;nbsp;&lt;/div&gt;&lt;div&gt;without the registration&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=default;fontColor=none;noLabel=1;" vertex="1" connectable="0" parent="Hln606C9xFhL2zD2UT4x-7">
+          <mxGeometry x="0.0079" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hln606C9xFhL2zD2UT4x-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFFFF;" edge="1" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-16" target="5oaNM4iD8BGQ1A2ODZAz-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
