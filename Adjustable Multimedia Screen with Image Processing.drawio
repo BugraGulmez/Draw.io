@@ -288,6 +288,12 @@
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Zb1ceNgBcfjziFciSwE-1" target="-Zb1ceNgBcfjziFciSwE-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-2" value="Does the user want to create a profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="95" y="480" width="275" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Zb1ceNgBcfjziFciSwE-6" target="5oaNM4iD8BGQ1A2ODZAz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
