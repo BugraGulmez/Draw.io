@@ -87,8 +87,8 @@
             <mxPoint x="679" y="578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V7kLFCqWELgKjrHRU5BF-13" value="No, user wants to use without&lt;br&gt;&amp;nbsp;the registration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V7kLFCqWELgKjrHRU5BF-12" vertex="1" connectable="0">
-          <mxGeometry x="0.0169" relative="1" as="geometry">
+        <mxCell id="wCUt-F2pWQlmVXEw_7FA-5" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;No, user wants to use without&lt;/span&gt;&lt;br style=&quot;font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;&amp;nbsp;the registration&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="V7kLFCqWELgKjrHRU5BF-12">
+          <mxGeometry x="-0.001" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
