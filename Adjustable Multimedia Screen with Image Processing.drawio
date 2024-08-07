@@ -10,6 +10,9 @@
         <mxCell id="GH0UqKwVndS1nuWGwgYn-66" value="Adjusts the HMI position when the driver enters the vehicle." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1044.5" y="310" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="LjCVkWjDybm0BiPAX4Dq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LjCVkWjDybm0BiPAX4Dq-13" target="LjCVkWjDybm0BiPAX4Dq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LjCVkWjDybm0BiPAX4Dq-13" value="Infotainment System" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="200" height="260" as="geometry">
             <mxRectangle x="450" y="192" width="150" height="30" as="alternateBounds" />
