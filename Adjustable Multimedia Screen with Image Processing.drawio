@@ -253,7 +253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yf9y3WExU8TTPDN5yny1" name="User Profile Registration">
-    <mxGraphModel dx="2038" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,13 +301,13 @@
             <mxPoint x="430" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-13" value="User wants to use without the registration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5oaNM4iD8BGQ1A2ODZAz-11">
-          <mxGeometry x="0.4987" relative="1" as="geometry">
-            <mxPoint x="-86" y="85" as="offset" />
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-34" value="User wants to use without&lt;br&gt;&amp;nbsp;the registration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5oaNM4iD8BGQ1A2ODZAz-11">
+          <mxGeometry x="0.0169" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-6" value="Does the user want to create a profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="450" width="275" height="90" as="geometry" />
+          <mxGeometry x="-102.5" y="450" width="275" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-7" value="Confirmation movement request application" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-25" y="585" width="120" height="120" as="geometry" />
@@ -324,7 +324,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-14" value="Check if the user can reach&lt;br&gt;&amp;nbsp;HMI and make the confirmation&lt;br&gt;&amp;nbsp;movement" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="60" y="755" width="275" height="90" as="geometry" />
+          <mxGeometry x="-102.5" y="755" width="275" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-15" target="5oaNM4iD8BGQ1A2ODZAz-7">
           <mxGeometry relative="1" as="geometry" />
