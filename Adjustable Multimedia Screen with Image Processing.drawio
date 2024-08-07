@@ -39,8 +39,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="lvw2H92Qae3IMMH-ZsWT" name="Sürücü Profile Kaydı">
-    <mxGraphModel dx="2057" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="lvw2H92Qae3IMMH-ZsWT" name="Driver Profile Registration">
+    <mxGraphModel dx="2543" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,8 +151,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="3a99cUC_CNWUlLPWy5pM" name="Sürüş Esnasında Kontrol">
-    <mxGraphModel dx="1578" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="3a99cUC_CNWUlLPWy5pM" name="Control While Driving">
+    <mxGraphModel dx="3198" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
