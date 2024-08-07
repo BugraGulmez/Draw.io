@@ -253,7 +253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yf9y3WExU8TTPDN5yny1" name="User Profile Registration">
-    <mxGraphModel dx="983" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,10 +288,22 @@
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Zb1ceNgBcfjziFciSwE-1" target="-Zb1ceNgBcfjziFciSwE-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-2" value="Does the user want to create a profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-6" target="5oaNM4iD8BGQ1A2ODZAz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-6" target="5oaNM4iD8BGQ1A2ODZAz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-6" value="Does the user want to create a profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="95" y="480" width="275" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Zb1ceNgBcfjziFciSwE-6" target="5oaNM4iD8BGQ1A2ODZAz-2">
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-7" value="Confirmation movement request application" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="585" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-8" value="Set the saved HMI profile" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="585" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Zb1ceNgBcfjziFciSwE-6" target="5oaNM4iD8BGQ1A2ODZAz-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
