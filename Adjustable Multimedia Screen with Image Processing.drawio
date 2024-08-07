@@ -73,7 +73,7 @@
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-6" target="5oaNM4iD8BGQ1A2ODZAz-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-12" value="Yes, start profile registration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#EEEEEE;" parent="5oaNM4iD8BGQ1A2ODZAz-10" vertex="1" connectable="0">
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-12" value="Yes, start profile registration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontColor=#FFFFFF;" parent="5oaNM4iD8BGQ1A2ODZAz-10" vertex="1" connectable="0">
           <mxGeometry x="0.5" relative="1" as="geometry">
             <mxPoint x="15" y="-6" as="offset" />
           </mxGeometry>
@@ -83,7 +83,7 @@
             <mxPoint x="705" y="622" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-34" value="No, user wants to use without&lt;br&gt;&amp;nbsp;the registration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];labelBackgroundColor=none;fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;imageAspect=0;" parent="5oaNM4iD8BGQ1A2ODZAz-11" vertex="1" connectable="0">
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-34" value="No, user wants to use without&lt;br&gt;&amp;nbsp;the registration" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;fontColor=#FFFFFF;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=0;imageAspect=1;fontFamily=Helvetica;fontSize=11;fillColor=none;gradientColor=none;" parent="5oaNM4iD8BGQ1A2ODZAz-11" vertex="1" connectable="0">
           <mxGeometry x="0.0169" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
