@@ -149,7 +149,7 @@
             <mxPoint x="227.5" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fa8D9K1WhiRJ1lM88-pn-18" value="kULACI priflsiz mi prfiklle mi &lt;br&gt;devam etmek istiyor komntrol et&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Fa8D9K1WhiRJ1lM88-pn-18" value="Kulanıcı profil oluşturmak istiyor mu" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-310" y="550" width="390" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Fa8D9K1WhiRJ1lM88-pn-23" value="Kulancı kayıtsız evam etmek isitoyr" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -205,18 +205,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3a99cUC_CNWUlLPWy5pM" name="Sürüş Esnasında Kontrol">
-    <mxGraphModel dx="1080" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1578" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Jppfjjs7GVwVSxp1vERo-1" value="Sürücü sürüşe kayıtlı mı kayıtsız mı devam etmek istedi" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="960" y="580" width="360" height="170" as="geometry" />
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.855;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Jppfjjs7GVwVSxp1vERo-1" target="Jppfjjs7GVwVSxp1vERo-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jppfjjs7GVwVSxp1vERo-1" value="HMI pozisyonu hareket etti mi" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="970" y="620" width="360" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Jppfjjs7GVwVSxp1vERo-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="375" y="10" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="MUhezEDcJgb9KLBtdTgT-1" value="&lt;font color=&quot;#ffffff&quot;&gt;end&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="460" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MUhezEDcJgb9KLBtdTgT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MUhezEDcJgb9KLBtdTgT-4" target="MUhezEDcJgb9KLBtdTgT-10">
           <mxGeometry relative="1" as="geometry">
@@ -240,7 +242,7 @@
             <mxPoint x="475" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fYs9qfRHFcmtV3q9GoN3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MUhezEDcJgb9KLBtdTgT-10" target="fYs9qfRHFcmtV3q9GoN3-11">
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MUhezEDcJgb9KLBtdTgT-10" target="fYs9qfRHFcmtV3q9GoN3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MUhezEDcJgb9KLBtdTgT-10" value="Sürücünün ekranda dokunması algılanıyor mu" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
@@ -261,14 +263,44 @@
           <mxGeometry x="370" y="380" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fYs9qfRHFcmtV3q9GoN3-11" value="Mekanızmayı durdur" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="180" width="100" height="100" as="geometry" />
+          <mxGeometry x="1100" y="440" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fYs9qfRHFcmtV3q9GoN3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fYs9qfRHFcmtV3q9GoN3-11" target="Jppfjjs7GVwVSxp1vERo-2">
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fYs9qfRHFcmtV3q9GoN3-16" target="fYs9qfRHFcmtV3q9GoN3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fYs9qfRHFcmtV3q9GoN3-16" target="fYs9qfRHFcmtV3q9GoN3-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-16" value="Sürücü Profil Kaydı var mı" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="780" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fYs9qfRHFcmtV3q9GoN3-19" target="Jppfjjs7GVwVSxp1vERo-2">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1140" y="60" />
-            </Array>
+            <mxPoint x="550" y="40" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-19" value="Profil kaydını güncelle" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="800" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Jppfjjs7GVwVSxp1vERo-1" target="fYs9qfRHFcmtV3q9GoN3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-23" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-24" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fYs9qfRHFcmtV3q9GoN3-11" target="Jppfjjs7GVwVSxp1vERo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.747;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fYs9qfRHFcmtV3q9GoN3-31" target="Jppfjjs7GVwVSxp1vERo-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYs9qfRHFcmtV3q9GoN3-31" value="Sürüş sonunda profil kaydı oluşturulmasımasını iste" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="840" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
