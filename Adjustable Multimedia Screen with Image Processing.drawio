@@ -40,14 +40,14 @@
         <mxCell id="6SlXk2SQCQ-J-JeLysUc-14" value="Camera" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zg9c_q_MXQkPVtyrekOQ-14" value="Driver Gestura" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="zg9c_q_MXQkPVtyrekOQ-14" value="Driver Gesture Recognition" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="210.5" y="300" width="159" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="lvw2H92Qae3IMMH-ZsWT" name="Sürücü Profile Kaydı">
-    <mxGraphModel dx="1876" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2057" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
