@@ -228,7 +228,7 @@
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-15" target="5oaNM4iD8BGQ1A2ODZAz-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-15" value="Confirmation movement request application" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-15" value="Move the mechanism a certain amount closer" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-190" y="585" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-16" value="Save driver profile" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
