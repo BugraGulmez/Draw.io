@@ -253,7 +253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yf9y3WExU8TTPDN5yny1" name="User Profile Registration">
-    <mxGraphModel dx="1325" dy="246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1529" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -319,6 +319,11 @@
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-14" target="5oaNM4iD8BGQ1A2ODZAz-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-22" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5oaNM4iD8BGQ1A2ODZAz-20">
+          <mxGeometry x="-0.0019" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-14" value="Check if the user can reach&lt;br&gt;&amp;nbsp;HMI and make the confirmation&lt;br&gt;&amp;nbsp;movement" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="785" width="275" height="90" as="geometry" />
         </mxCell>
@@ -326,10 +331,15 @@
           <mxGeometry x="-90" y="770" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-16" value="Set the saved HMI profile" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="770" width="120" height="120" as="geometry" />
+          <mxGeometry x="380" y="770" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5oaNM4iD8BGQ1A2ODZAz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.019;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5oaNM4iD8BGQ1A2ODZAz-14" target="5oaNM4iD8BGQ1A2ODZAz-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5oaNM4iD8BGQ1A2ODZAz-23" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5oaNM4iD8BGQ1A2ODZAz-21">
+          <mxGeometry x="-0.4122" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
