@@ -153,10 +153,10 @@
           <mxGeometry x="76.94" y="575" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SZPXhSMGmdvWDC1DAa07-2" value="Does the user want to create a profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="289.94" y="180" width="275" height="90" as="geometry" />
+          <mxGeometry x="247.94" y="180" width="275" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rNdVV5-SoCApoH0Ur-T8-1" value="Start to bring the mechanism closer at regular intervals" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="367.44" y="320" width="120" height="120" as="geometry" />
+          <mxGeometry x="325.44" y="320" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="j00pYbPCV6hTmDwmlDQn-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="blFsxWuzeTsYbY2VbkVz-1" target="rNdVV5-SoCApoH0Ur-T8-1">
           <mxGeometry relative="1" as="geometry" />
