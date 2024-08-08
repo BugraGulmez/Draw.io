@@ -1,34 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Components">
-    <mxGraphModel dx="1638" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="1">
+    <mxGraphModel dx="1565" dy="726" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LjCVkWjDybm0BiPAX4Dq-13" value="Infotainment System" style="swimlane;labelBackgroundColor=none;rounded=1;swimlaneHead=1;absoluteArcSize=0;connectable=1;allowArrows=1;pointerEvents=1;expand=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;direction=east;overflow=visible;" parent="1" vertex="1">
-          <mxGeometry x="40" y="30" width="200" height="260" as="geometry">
-            <mxRectangle x="40" y="30" width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LjCVkWjDybm0BiPAX4Dq-19" value="Touch Screen" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="LjCVkWjDybm0BiPAX4Dq-13" vertex="1">
-          <mxGeometry x="40" y="178" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LjCVkWjDybm0BiPAX4Dq-17" value="Profile Registration" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="LjCVkWjDybm0BiPAX4Dq-13" vertex="1">
-          <mxGeometry x="40" y="108" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LjCVkWjDybm0BiPAX4Dq-15" value="HMI Adjustment" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="LjCVkWjDybm0BiPAX4Dq-13" vertex="1">
-          <mxGeometry x="40" y="38" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LjCVkWjDybm0BiPAX4Dq-20" value="Camera" style="swimlane;labelBackgroundColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="30" width="200" height="260" as="geometry">
-            <mxRectangle x="320" y="30" width="78" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LjCVkWjDybm0BiPAX4Dq-21" value="Face Recognition" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="LjCVkWjDybm0BiPAX4Dq-20" vertex="1">
-          <mxGeometry x="40" y="38" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LjCVkWjDybm0BiPAX4Dq-22" value="Driver Gesture Recognition" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="LjCVkWjDybm0BiPAX4Dq-20" vertex="1">
-          <mxGeometry x="40" y="108" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -263,6 +238,39 @@
         </mxCell>
         <mxCell id="2BcC6fQpgAqYg0BeU9Yx-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="bhamblW06QANVMvwrjKl-1" target="NGVn6QmUvGQWJI0pI-xG-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="i02SGIBjq4uqNVCTyk91" name="Page-4">
+    <mxGraphModel dx="1878" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H6OPWlMVketK5wdcpJMo-1" value="Infotainment System" style="swimlane;labelBackgroundColor=none;rounded=1;swimlaneHead=1;absoluteArcSize=0;connectable=1;allowArrows=1;pointerEvents=1;expand=1;editable=1;movable=1;resizable=1;rotatable=1;deletable=1;locked=0;direction=east;overflow=visible;" vertex="1" parent="1">
+          <mxGeometry x="185" y="420" width="200" height="260" as="geometry">
+            <mxRectangle x="40" y="30" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H6OPWlMVketK5wdcpJMo-2" value="Touch Screen" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="H6OPWlMVketK5wdcpJMo-1">
+          <mxGeometry x="40" y="178" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H6OPWlMVketK5wdcpJMo-3" value="Profile Registration" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="H6OPWlMVketK5wdcpJMo-1">
+          <mxGeometry x="40" y="108" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H6OPWlMVketK5wdcpJMo-4" value="HMI Adjustment" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="H6OPWlMVketK5wdcpJMo-1">
+          <mxGeometry x="40" y="38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H6OPWlMVketK5wdcpJMo-5" value="Camera" style="swimlane;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="420" width="200" height="260" as="geometry">
+            <mxRectangle x="320" y="30" width="78" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H6OPWlMVketK5wdcpJMo-6" value="Face Recognition" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="H6OPWlMVketK5wdcpJMo-5">
+          <mxGeometry x="40" y="38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H6OPWlMVketK5wdcpJMo-7" value="Driver Gesture Recognition" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="H6OPWlMVketK5wdcpJMo-5">
+          <mxGeometry x="40" y="108" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
