@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6" pages="5">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Components">
     <mxGraphModel dx="1638" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -33,7 +33,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Dqx1gCRf7SJ3quYDWsAl" name="User Profile Registration">
-    <mxGraphModel dx="946" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="626" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="V7kLFCqWELgKjrHRU5BF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V7kLFCqWELgKjrHRU5BF-6" target="V7kLFCqWELgKjrHRU5BF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wCUt-F2pWQlmVXEw_7FA-8" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" connectable="0" parent="V7kLFCqWELgKjrHRU5BF-2">
+        <mxCell id="wCUt-F2pWQlmVXEw_7FA-8" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" parent="V7kLFCqWELgKjrHRU5BF-2" vertex="1" connectable="0">
           <mxGeometry x="0.5022" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -51,7 +51,7 @@
         <mxCell id="V7kLFCqWELgKjrHRU5BF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V7kLFCqWELgKjrHRU5BF-6" target="V7kLFCqWELgKjrHRU5BF-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wCUt-F2pWQlmVXEw_7FA-9" value="&lt;font face=&quot;Helvetica&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="V7kLFCqWELgKjrHRU5BF-4">
+        <mxCell id="wCUt-F2pWQlmVXEw_7FA-9" value="&lt;font face=&quot;Helvetica&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="V7kLFCqWELgKjrHRU5BF-4" vertex="1" connectable="0">
           <mxGeometry x="0.5024" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -77,7 +77,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCUt-F2pWQlmVXEw_7FA-4" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;Yes, start profile registration&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="V7kLFCqWELgKjrHRU5BF-10">
+        <mxCell id="wCUt-F2pWQlmVXEw_7FA-4" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;Yes, start profile registration&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="V7kLFCqWELgKjrHRU5BF-10" vertex="1" connectable="0">
           <mxGeometry x="0.2566" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -87,7 +87,7 @@
             <mxPoint x="679" y="578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCUt-F2pWQlmVXEw_7FA-5" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;No, user wants to use without&lt;/span&gt;&lt;br style=&quot;font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;&amp;nbsp;the registration&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="V7kLFCqWELgKjrHRU5BF-12">
+        <mxCell id="wCUt-F2pWQlmVXEw_7FA-5" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;No, user wants to use without&lt;/span&gt;&lt;br style=&quot;font-family: Helvetica;&quot;&gt;&lt;span style=&quot;font-family: Helvetica;&quot;&gt;&amp;nbsp;the registration&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="V7kLFCqWELgKjrHRU5BF-12" vertex="1" connectable="0">
           <mxGeometry x="-0.001" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -145,24 +145,48 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AmksF415dSsrvB6qrJmL" name="Control While Driving-02">
-    <mxGraphModel dx="946" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SZPXhSMGmdvWDC1DAa07-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="375" y="170" width="100" height="100" as="geometry" />
+          <mxGeometry x="117" y="60" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SZPXhSMGmdvWDC1DAa07-2" value="Does the user want to create a profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="288" y="330" width="275" height="90" as="geometry" />
+          <mxGeometry x="30" y="220" width="275" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rNdVV5-SoCApoH0Ur-T8-1" value="Give a warning to the driver to create a user profile on the HMI" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="230" y="450" width="120" height="120" as="geometry" />
+        <mxCell id="rNdVV5-SoCApoH0Ur-T8-1" value="Start to bring the mechanism closer at regular intervals" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="73.5" y="470" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="blFsxWuzeTsYbY2VbkVz-1" value="Is the driver&#39;s touch detected&lt;br&gt;&amp;nbsp;on the screen?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="288" y="310" width="275" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bhamblW06QANVMvwrjKl-1" value="Stop the mechanism" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="470" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NGVn6QmUvGQWJI0pI-xG-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Did the HMI position move?&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="288" y="635" width="275" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9i6w7RGaze3ZlmVt5Orb-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Does the driver have a profile record?&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="504.5" y="785" width="275" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5LHjYZ4HiTcEuY2RAS_N-1" value="Request profile registration at the end of the ride" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="930" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oorCLXr7VsD9yvp-U09V-1" value="Update profile record" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="720" y="930" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VqQ7drLXg8nGn0T5HpYX-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="SZPXhSMGmdvWDC1DAa07-1" target="SZPXhSMGmdvWDC1DAa07-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aDcoeOeW0zedcQk-I20n-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="SZPXhSMGmdvWDC1DAa07-2" target="blFsxWuzeTsYbY2VbkVz-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="3a99cUC_CNWUlLPWy5pM" name="Control While Driving-01">
-    <mxGraphModel dx="1372" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,6 +282,44 @@
         </mxCell>
         <mxCell id="fYs9qfRHFcmtV3q9GoN3-31" value="Sürüş sonunda profil kaydı oluşturulmasımasını iste" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1060" y="840" width="140" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="klst-QVffUU_nS1j3PHh" name="Page-5">
+    <mxGraphModel dx="546" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XSzE630n7T03HeHvjaMp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Helvetica;strokeColor=default;align=center;verticalAlign=middle;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XSzE630n7T03HeHvjaMp-1" target="XSzE630n7T03HeHvjaMp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XSzE630n7T03HeHvjaMp-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="235" y="70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XSzE630n7T03HeHvjaMp-2" value="Does the user want to create a profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="148" y="230" width="275" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XSzE630n7T03HeHvjaMp-3" value="Start to bring the mechanism closer at regular intervals" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XSzE630n7T03HeHvjaMp-4" value="Is the driver&#39;s touch detected&lt;br&gt;&amp;nbsp;on the screen?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="335" y="370" width="275" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XSzE630n7T03HeHvjaMp-5" value="Stop the mechanism" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="470" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XSzE630n7T03HeHvjaMp-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Did the HMI position move?&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="335" y="590" width="275" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XSzE630n7T03HeHvjaMp-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Does the driver have a profile record?&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="700" width="275" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XSzE630n7T03HeHvjaMp-8" value="Request profile registration at the end of the ride" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="800" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XSzE630n7T03HeHvjaMp-9" value="Update profile record" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="890" y="800" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
