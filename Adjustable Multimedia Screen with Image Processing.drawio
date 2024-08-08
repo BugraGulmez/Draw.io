@@ -145,7 +145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AmksF415dSsrvB6qrJmL" name="Control While Driving-02">
-    <mxGraphModel dx="315" dy="168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,6 +163,11 @@
         </mxCell>
         <mxCell id="1k2ieEeg6DOAY-mOEUIB-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="blFsxWuzeTsYbY2VbkVz-1" target="bhamblW06QANVMvwrjKl-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NnyxecYXYOuVgj41Yb-E-1" value="&lt;font face=&quot;Helvetica&quot;&gt;Yes&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="1k2ieEeg6DOAY-mOEUIB-1">
+          <mxGeometry x="-0.0216" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="blFsxWuzeTsYbY2VbkVz-1" value="Is the driver&#39;s touch detected&lt;br&gt;&amp;nbsp;on the screen?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="542.44" y="335" width="275" height="90" as="geometry" />
