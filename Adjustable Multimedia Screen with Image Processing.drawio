@@ -183,7 +183,7 @@
           <mxGeometry x="288" y="705" width="275" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5LHjYZ4HiTcEuY2RAS_N-1" value="Request profile registration at the end of the ride" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="73.5" y="690" width="120" height="120" as="geometry" />
+          <mxGeometry x="107" y="690" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oorCLXr7VsD9yvp-U09V-1" value="Update profile record" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="690" width="120" height="120" as="geometry" />
