@@ -145,7 +145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AmksF415dSsrvB6qrJmL" name="Control While Driving-02">
-    <mxGraphModel dx="1878" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
           <mxGeometry x="542.44" y="335" width="275" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bhamblW06QANVMvwrjKl-1" value="Stop the mechanism" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="619.94" y="500" width="120" height="120" as="geometry" />
+          <mxGeometry x="619.94" y="480" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NGVn6QmUvGQWJI0pI-xG-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Did the HMI position move?&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="247.94" y="580" width="275" height="90" as="geometry" />
