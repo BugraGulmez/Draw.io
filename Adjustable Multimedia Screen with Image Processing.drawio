@@ -145,12 +145,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AmksF415dSsrvB6qrJmL" name="Control While Driving-02">
-    <mxGraphModel dx="1365" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SZPXhSMGmdvWDC1DAa07-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="117" y="60" width="100" height="100" as="geometry" />
+          <mxGeometry x="375.5" y="850" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="SZPXhSMGmdvWDC1DAa07-2" value="Does the user want to create a profile?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="30" y="220" width="275" height="90" as="geometry" />
@@ -187,9 +187,6 @@
         </mxCell>
         <mxCell id="oorCLXr7VsD9yvp-U09V-1" value="Update profile record" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="690" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="VqQ7drLXg8nGn0T5HpYX-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;" edge="1" parent="1" source="SZPXhSMGmdvWDC1DAa07-1" target="SZPXhSMGmdvWDC1DAa07-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aDcoeOeW0zedcQk-I20n-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="SZPXhSMGmdvWDC1DAa07-2" target="blFsxWuzeTsYbY2VbkVz-1">
           <mxGeometry relative="1" as="geometry" />
